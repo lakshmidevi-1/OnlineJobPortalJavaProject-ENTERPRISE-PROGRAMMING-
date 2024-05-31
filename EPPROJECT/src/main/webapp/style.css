@@ -1,0 +1,61 @@
+body
+{
+	background: url(images/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+    
+}
+trr
+{
+	background: url(images/wal.jpg);
+	background-repeat: no-repeat;
+}
+a {
+  color: orange;
+  text-decoration: none;
+}
+.clr
+{
+  color: #FED8B1; /* Set the text color */
+    text-shadow:
+                -1px -1px 0 #000, /* Top-left border */
+                1px -1px 0 #000, /* Top-right border */
+                -1px 1px 0 #000, /* Bottom-left border */
+                1px 1px 0 #000; /* Bottom-right border */
+}
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+* {
+   box-sizing: border-box;
+}
+
+.logo
+{
+  position:absolute;
+left:0;
+top:0;
+}
+.imageColumn {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 20%;
+}
+.tcl
+{
+	background-color:tomato;
+	font-size: 16px;
+}
+
+
